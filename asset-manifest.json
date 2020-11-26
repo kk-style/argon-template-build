@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/argon-template-build/static/css/main.021c1ce2.chunk.css",
-    "main.js": "/argon-template-build/static/js/main.adbcc89e.chunk.js",
-    "main.js.map": "/argon-template-build/static/js/main.adbcc89e.chunk.js.map",
+    "main.js": "/argon-template-build/static/js/main.88e2dc9a.chunk.js",
+    "main.js.map": "/argon-template-build/static/js/main.88e2dc9a.chunk.js.map",
     "runtime-main.js": "/argon-template-build/static/js/runtime-main.cf1c40a2.js",
     "runtime-main.js.map": "/argon-template-build/static/js/runtime-main.cf1c40a2.js.map",
     "static/css/2.3c6fd5af.chunk.css": "/argon-template-build/static/css/2.3c6fd5af.chunk.css",
     "static/js/2.261863c7.chunk.js": "/argon-template-build/static/js/2.261863c7.chunk.js",
     "static/js/2.261863c7.chunk.js.map": "/argon-template-build/static/js/2.261863c7.chunk.js.map",
     "index.html": "/argon-template-build/index.html",
-    "precache-manifest.279719b341ac0f3f7eafb5d5b97cefc2.js": "/argon-template-build/precache-manifest.279719b341ac0f3f7eafb5d5b97cefc2.js",
+    "precache-manifest.521b47debd021217186b701b597f7863.js": "/argon-template-build/precache-manifest.521b47debd021217186b701b597f7863.js",
     "service-worker.js": "/argon-template-build/service-worker.js",
     "static/css/2.3c6fd5af.chunk.css.map": "/argon-template-build/static/css/2.3c6fd5af.chunk.css.map",
     "static/css/main.021c1ce2.chunk.css.map": "/argon-template-build/static/css/main.021c1ce2.chunk.css.map",
     "static/js/2.261863c7.chunk.js.LICENSE.txt": "/argon-template-build/static/js/2.261863c7.chunk.js.LICENSE.txt",
-    "static/js/main.adbcc89e.chunk.js.LICENSE.txt": "/argon-template-build/static/js/main.adbcc89e.chunk.js.LICENSE.txt",
+    "static/js/main.88e2dc9a.chunk.js.LICENSE.txt": "/argon-template-build/static/js/main.88e2dc9a.chunk.js.LICENSE.txt",
     "static/media/angular.jpg": "/argon-template-build/static/media/angular.368685db.jpg",
     "static/media/argon-react-white.png": "/argon-template-build/static/media/argon-react-white.275a2629.png",
     "static/media/argon-react.png": "/argon-template-build/static/media/argon-react.f38ddea9.png",
@@ -37,6 +37,6 @@
     "static/css/2.3c6fd5af.chunk.css",
     "static/js/2.261863c7.chunk.js",
     "static/css/main.021c1ce2.chunk.css",
-    "static/js/main.adbcc89e.chunk.js"
+    "static/js/main.88e2dc9a.chunk.js"
   ]
 }

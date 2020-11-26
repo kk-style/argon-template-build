@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c7a41cd907fc0feddf7082ff5d8b66e",
+    "revision": "ffd5396a2d657386f41adfe3f320ee48",
     "url": "/argon-template-build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/argon-template-build/static/css/2.3c6fd5af.chunk.css"
   },
   {
-    "revision": "52d8e65444b4c225e913",
+    "revision": "eaf57a8859235ac948e4",
     "url": "/argon-template-build/static/css/main.021c1ce2.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/argon-template-build/static/js/2.261863c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "52d8e65444b4c225e913",
-    "url": "/argon-template-build/static/js/main.adbcc89e.chunk.js"
+    "revision": "eaf57a8859235ac948e4",
+    "url": "/argon-template-build/static/js/main.88e2dc9a.chunk.js"
   },
   {
     "revision": "8d0d562f4ec3c131ac27d52de65ecd17",
-    "url": "/argon-template-build/static/js/main.adbcc89e.chunk.js.LICENSE.txt"
+    "url": "/argon-template-build/static/js/main.88e2dc9a.chunk.js.LICENSE.txt"
   },
   {
     "revision": "ea6b829a04a800e6471b",
